@@ -20,3 +20,4 @@ pandas
 # deep_sort -----------------------------------
 
 easydict
+easyocr
