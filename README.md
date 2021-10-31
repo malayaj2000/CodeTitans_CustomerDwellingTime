@@ -20,3 +20,7 @@
   3. Automate product ordering in case of festive shopping seasons.  
     
 
+# ToDo
+- [ ] Development of UI
+- [ ] Impoving Tracking algorithm
+- [ ] Developing Embedded model 
